@@ -1,3 +1,3 @@
 # Advanced-Excel
 
-##advance excel
+#This is the GitHub repository for my first Excel exercise.
